@@ -15,3 +15,8 @@ F13 & f::Send, {Numpad6}
 F13 & w::Send, {Numpad7}
 F13 & e::Send, {Numpad8}
 F13 & r::Send, {Numpad9}
+
+F13 & h::Send, {Left}
+F13 & j::Send, {Down}
+F13 & k::Send, {Up}
+F13 & l::Send, {Right}
